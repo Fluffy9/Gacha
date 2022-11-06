@@ -1,0 +1,35 @@
+[
+	{
+		"inputs": [
+			{
+				"internalType": "bytes32[]",
+				"name": "commands",
+				"type": "bytes32[]"
+			},
+			{
+				"internalType": "bytes[]",
+				"name": "state",
+				"type": "bytes[]"
+			}
+		],
+		"name": "execute",
+		"outputs": [
+			{
+				"internalType": "bytes[]",
+				"name": "",
+				"type": "bytes[]"
+			}
+		],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"stateMutability": "payable",
+		"type": "fallback"
+	},
+	{
+		"inputs": [],
+		"stateMutability": "nonpayable",
+		"type": "constructor"
+	}
+]
