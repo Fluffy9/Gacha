@@ -1,5 +1,7 @@
 # app
 
+Supported Networks: Gnosis Mainnet, Polygon Mainnet
+
 ## Project setup
 ```
 npm install
